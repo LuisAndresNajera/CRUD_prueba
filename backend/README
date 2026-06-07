@@ -1,0 +1,27 @@
+# CRUD_prueba_backend
+
+Proyecto de práctica desarrollado con Laravel 13 y MySQL.
+
+## Tecnologías
+
+- Laravel 13
+- PHP 8.4
+- MySQL 9.7
+- Composer
+- Git
+
+## Instalación
+
+```bash
+git clone <repositorio>
+cd CRUD_prueba_backend
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+php artisan serve
+```
+
+## Autor
+
+Luis Andrés Nájera Couoh
