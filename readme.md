@@ -24,8 +24,8 @@ Frontend:
 ## Estructura
 
 CRUD_prueba/
-├── backend/
-└── frontend/
+  - backend/
+  - frontend/
 
 ## Instalación
 
